@@ -1,7 +1,14 @@
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .topnav {
     overflow: hidden;
     background-color: #333;
     justify-content: center;
+    width: 100%;
 }
 
 .topnav a{
